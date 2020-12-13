@@ -1,0 +1,14 @@
+{
+    "author": "Red Hat Training",
+    "dependencies": {
+        "express": "4.14.x"
+    },
+    "description": "A simple Node.js app to demonstrate config maps and secrets",
+    "license": "ASL",
+    "main": "app.js",
+    "name": "node-configmap",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "version": "1.0.0"
+}
